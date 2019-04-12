@@ -1,0 +1,5 @@
+Credentials cache: API:1E8265A3-5687-4CF8-9942-AFE66B970DA1
+        Principal: zfadia@42.FR
+
+  Issued                Expires               Principal
+Feb  4 21:34:28 2019  Feb 11 21:34:09 2019  krbtgt/42.FR@42.FR
